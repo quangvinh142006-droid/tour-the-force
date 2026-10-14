@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxiuw443ulrkk"
-path="res://.godot/imported/Sheep_Idle.png-9188b59cdad49faf72e6ced8e29ada9c.ctex"
+path="res://.godot/imported/Sheep_Idle.png-47270afb5b7fde2950bf8d9080a4ddcb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Free Pack)/Terrain/Resources/Meat/Sheep/Sheep_Idle.png"
-dest_files=["res://.godot/imported/Sheep_Idle.png-9188b59cdad49faf72e6ced8e29ada9c.ctex"]
+source_file="res://Assets/Tiny Swords (Free Pack)/Terrain/Resources/Meat/Sheep/Sheep_Idle.png"
+dest_files=["res://.godot/imported/Sheep_Idle.png-47270afb5b7fde2950bf8d9080a4ddcb.ctex"]
 
 [params]
 

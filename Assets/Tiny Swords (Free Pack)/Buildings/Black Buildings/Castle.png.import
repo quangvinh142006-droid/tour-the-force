@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bf5xr2qqs24df"
-path="res://.godot/imported/Castle.png-ff3ac47a38d794f3484f4de1cbc5ef4b.ctex"
+path="res://.godot/imported/Castle.png-d7a2ef062a1c44c40cb1dc73f9c52b1c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Free Pack)/Buildings/Black Buildings/Castle.png"
-dest_files=["res://.godot/imported/Castle.png-ff3ac47a38d794f3484f4de1cbc5ef4b.ctex"]
+source_file="res://Assets/Tiny Swords (Free Pack)/Buildings/Black Buildings/Castle.png"
+dest_files=["res://.godot/imported/Castle.png-d7a2ef062a1c44c40cb1dc73f9c52b1c.ctex"]
 
 [params]
 

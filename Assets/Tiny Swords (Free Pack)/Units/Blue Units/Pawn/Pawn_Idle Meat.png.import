@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c74b72ntml3a7"
-path="res://.godot/imported/Pawn_Idle Meat.png-d4b677b99ed744f23e1440dd00250e7b.ctex"
+path="res://.godot/imported/Pawn_Idle Meat.png-1ca9d051532c00886c37b5568f38b863.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Free Pack)/Units/Blue Units/Pawn/Pawn_Idle Meat.png"
-dest_files=["res://.godot/imported/Pawn_Idle Meat.png-d4b677b99ed744f23e1440dd00250e7b.ctex"]
+source_file="res://Assets/Tiny Swords (Free Pack)/Units/Blue Units/Pawn/Pawn_Idle Meat.png"
+dest_files=["res://.godot/imported/Pawn_Idle Meat.png-1ca9d051532c00886c37b5568f38b863.ctex"]
 
 [params]
 

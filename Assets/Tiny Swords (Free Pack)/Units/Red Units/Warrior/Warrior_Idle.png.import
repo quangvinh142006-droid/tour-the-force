@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bi4ulfigf6xyi"
-path="res://.godot/imported/Warrior_Idle.png-762b359417bc27b86912c87a4391f5f2.ctex"
+path="res://.godot/imported/Warrior_Idle.png-6707ae8428fa4d4f6d5068add6442df5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Free Pack)/Units/Red Units/Warrior/Warrior_Idle.png"
-dest_files=["res://.godot/imported/Warrior_Idle.png-762b359417bc27b86912c87a4391f5f2.ctex"]
+source_file="res://Assets/Tiny Swords (Free Pack)/Units/Red Units/Warrior/Warrior_Idle.png"
+dest_files=["res://.godot/imported/Warrior_Idle.png-6707ae8428fa4d4f6d5068add6442df5.ctex"]
 
 [params]
 

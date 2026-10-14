@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4lbruu4jrdqi"
-path="res://.godot/imported/Archer_Purlple.png-66ded3a40cec8f3a1386ef64911a0fde.ctex"
+path="res://.godot/imported/Archer_Purlple.png-2003155d5288e21b5c66469a776c0a10.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Purple/Archer_Purlple.png"
-dest_files=["res://.godot/imported/Archer_Purlple.png-66ded3a40cec8f3a1386ef64911a0fde.ctex"]
+source_file="res://Assets/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Purple/Archer_Purlple.png"
+dest_files=["res://.godot/imported/Archer_Purlple.png-2003155d5288e21b5c66469a776c0a10.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ks2cyq3bduj6"
-path="res://.godot/imported/Fire_02.png-982d371731fe59f1d662117238129a9d.ctex"
+path="res://.godot/imported/Fire_02.png-43f1776550304fc6dbacb0e949b647a2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Free Pack)/Particle FX/Fire_02.png"
-dest_files=["res://.godot/imported/Fire_02.png-982d371731fe59f1d662117238129a9d.ctex"]
+source_file="res://Assets/Tiny Swords (Free Pack)/Particle FX/Fire_02.png"
+dest_files=["res://.godot/imported/Fire_02.png-43f1776550304fc6dbacb0e949b647a2.ctex"]
 
 [params]
 

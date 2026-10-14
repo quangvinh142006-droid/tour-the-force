@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnu4ao7n3b687"
-path="res://.godot/imported/Rubber duck.png-8c2abc33c5d8ed53f3789eb192b1a5f0.ctex"
+path="res://.godot/imported/Rubber duck.png-e204ce58206ddac8e2bfe75e3fdeae85.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Free Pack)/Terrain/Decorations/Rubber Duck/Rubber duck.png"
-dest_files=["res://.godot/imported/Rubber duck.png-8c2abc33c5d8ed53f3789eb192b1a5f0.ctex"]
+source_file="res://Assets/Tiny Swords (Free Pack)/Terrain/Decorations/Rubber Duck/Rubber duck.png"
+dest_files=["res://.godot/imported/Rubber duck.png-e204ce58206ddac8e2bfe75e3fdeae85.ctex"]
 
 [params]
 

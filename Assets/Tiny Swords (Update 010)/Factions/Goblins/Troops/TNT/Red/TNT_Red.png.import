@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bug2w7ccgwpsd"
-path="res://.godot/imported/TNT_Red.png-8558635d83ed424604cd4ef7ed8cb5cc.ctex"
+path="res://.godot/imported/TNT_Red.png-6c501245bc0ce42e2ed8daaed04a6956.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Red/TNT_Red.png"
-dest_files=["res://.godot/imported/TNT_Red.png-8558635d83ed424604cd4ef7ed8cb5cc.ctex"]
+source_file="res://Assets/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Red/TNT_Red.png"
+dest_files=["res://.godot/imported/TNT_Red.png-6c501245bc0ce42e2ed8daaed04a6956.ctex"]
 
 [params]
 

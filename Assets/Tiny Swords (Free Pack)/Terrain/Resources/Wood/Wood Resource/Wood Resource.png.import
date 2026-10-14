@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpoa1odwnm50n"
-path="res://.godot/imported/Wood Resource.png-da02cce3d3875df1d87e5cdc5c53d325.ctex"
+path="res://.godot/imported/Wood Resource.png-3f82503e4277264b9c85e12709454054.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Free Pack)/Terrain/Resources/Wood/Wood Resource/Wood Resource.png"
-dest_files=["res://.godot/imported/Wood Resource.png-da02cce3d3875df1d87e5cdc5c53d325.ctex"]
+source_file="res://Assets/Tiny Swords (Free Pack)/Terrain/Resources/Wood/Wood Resource/Wood Resource.png"
+dest_files=["res://.godot/imported/Wood Resource.png-3f82503e4277264b9c85e12709454054.ctex"]
 
 [params]
 

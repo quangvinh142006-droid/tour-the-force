@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7uleprp80q6h"
-path="res://.godot/imported/Tower_Construction.png-13ae1d59b7945e0d51c66ba70f6d747d.ctex"
+path="res://.godot/imported/Tower_Construction.png-c7b13a1c627ad338583d07b0cb142b2d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/Tower_Construction.png"
-dest_files=["res://.godot/imported/Tower_Construction.png-13ae1d59b7945e0d51c66ba70f6d747d.ctex"]
+source_file="res://Assets/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/Tower_Construction.png"
+dest_files=["res://.godot/imported/Tower_Construction.png-c7b13a1c627ad338583d07b0cb142b2d.ctex"]
 
 [params]
 

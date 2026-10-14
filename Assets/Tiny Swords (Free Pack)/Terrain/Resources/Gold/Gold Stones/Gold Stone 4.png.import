@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmwvxs4xx75f5"
-path="res://.godot/imported/Gold Stone 4.png-630e681cd81c9285079f37117f5a9687.ctex"
+path="res://.godot/imported/Gold Stone 4.png-a63355e2f4984b90a73314724b0c57c7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Free Pack)/Terrain/Resources/Gold/Gold Stones/Gold Stone 4.png"
-dest_files=["res://.godot/imported/Gold Stone 4.png-630e681cd81c9285079f37117f5a9687.ctex"]
+source_file="res://Assets/Tiny Swords (Free Pack)/Terrain/Resources/Gold/Gold Stones/Gold Stone 4.png"
+dest_files=["res://.godot/imported/Gold Stone 4.png-a63355e2f4984b90a73314724b0c57c7.ctex"]
 
 [params]
 

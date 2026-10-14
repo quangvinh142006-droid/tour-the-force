@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wnqcjm5nmguo"
-path="res://.godot/imported/Archer_Run.png-ad6e8c47897968a03143d7944e95823c.ctex"
+path="res://.godot/imported/Archer_Run.png-514a80b66ef2e59d72aaba12226a9d46.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Free Pack)/Units/Red Units/Archer/Archer_Run.png"
-dest_files=["res://.godot/imported/Archer_Run.png-ad6e8c47897968a03143d7944e95823c.ctex"]
+source_file="res://Assets/Tiny Swords (Free Pack)/Units/Red Units/Archer/Archer_Run.png"
+dest_files=["res://.godot/imported/Archer_Run.png-514a80b66ef2e59d72aaba12226a9d46.ctex"]
 
 [params]
 

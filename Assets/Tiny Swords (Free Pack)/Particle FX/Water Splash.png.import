@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://34siwrn0fnc3"
-path="res://.godot/imported/Water Splash.png-6cbcacd1b5bde55fdafbc49dda881580.ctex"
+path="res://.godot/imported/Water Splash.png-21de632a6ac15fd71b19a6227c297e93.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Free Pack)/Particle FX/Water Splash.png"
-dest_files=["res://.godot/imported/Water Splash.png-6cbcacd1b5bde55fdafbc49dda881580.ctex"]
+source_file="res://Assets/Tiny Swords (Free Pack)/Particle FX/Water Splash.png"
+dest_files=["res://.godot/imported/Water Splash.png-21de632a6ac15fd71b19a6227c297e93.ctex"]
 
 [params]
 

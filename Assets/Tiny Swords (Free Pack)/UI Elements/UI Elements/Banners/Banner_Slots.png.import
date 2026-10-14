@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjyg1np6vxd06"
-path="res://.godot/imported/Banner_Slots.png-bbe3ff1eae4ad91f19b994372dd8e2fc.ctex"
+path="res://.godot/imported/Banner_Slots.png-f8d7fd94290b4b745a01e893e068f7ab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Free Pack)/UI Elements/UI Elements/Banners/Banner_Slots.png"
-dest_files=["res://.godot/imported/Banner_Slots.png-bbe3ff1eae4ad91f19b994372dd8e2fc.ctex"]
+source_file="res://Assets/Tiny Swords (Free Pack)/UI Elements/UI Elements/Banners/Banner_Slots.png"
+dest_files=["res://.godot/imported/Banner_Slots.png-f8d7fd94290b4b745a01e893e068f7ab.ctex"]
 
 [params]
 

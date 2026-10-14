@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djsvbm8o6uddd"
-path="res://.godot/imported/Bushe1.png-cdd6dcd16090f28fe9c9626c0e599118.ctex"
+path="res://.godot/imported/Bushe1.png-05274fa4544daf81b54f2957391de512.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Free Pack)/Terrain/Decorations/Bushes/Bushe1.png"
-dest_files=["res://.godot/imported/Bushe1.png-cdd6dcd16090f28fe9c9626c0e599118.ctex"]
+source_file="res://Assets/Tiny Swords (Free Pack)/Terrain/Decorations/Bushes/Bushe1.png"
+dest_files=["res://.godot/imported/Bushe1.png-05274fa4544daf81b54f2957391de512.ctex"]
 
 [params]
 

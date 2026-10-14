@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cstxo38hw7bdf"
-path="res://.godot/imported/Goblin_House_Destroyed.png-88d7d1140425d0fb0ebca705c7707964.ctex"
+path="res://.godot/imported/Goblin_House_Destroyed.png-ebc7bd77d32157ed591aba0df1149b1f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_House/Goblin_House_Destroyed.png"
-dest_files=["res://.godot/imported/Goblin_House_Destroyed.png-88d7d1140425d0fb0ebca705c7707964.ctex"]
+source_file="res://Assets/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_House/Goblin_House_Destroyed.png"
+dest_files=["res://.godot/imported/Goblin_House_Destroyed.png-ebc7bd77d32157ed591aba0df1149b1f.ctex"]
 
 [params]
 

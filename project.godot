@@ -10,9 +10,8 @@ config_version=5
 
 [application]
 
-config/name="tour the force"
+run/main_scene="uid://d4kd826no0dv3"
 config/features=PackedStringArray("4.7", "Mobile")
-config/icon="res://icon.svg"
 
 [display]
 

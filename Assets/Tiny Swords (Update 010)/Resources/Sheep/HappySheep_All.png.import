@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b64ps68edu0vo"
-path="res://.godot/imported/HappySheep_All.png-6ea598d5da6805b28563a5e953a4b364.ctex"
+path="res://.godot/imported/HappySheep_All.png-ca1e2c47dde7ae52733193e15565a8b0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Update 010)/Resources/Sheep/HappySheep_All.png"
-dest_files=["res://.godot/imported/HappySheep_All.png-6ea598d5da6805b28563a5e953a4b364.ctex"]
+source_file="res://Assets/Tiny Swords (Update 010)/Resources/Sheep/HappySheep_All.png"
+dest_files=["res://.godot/imported/HappySheep_All.png-ca1e2c47dde7ae52733193e15565a8b0.ctex"]
 
 [params]
 

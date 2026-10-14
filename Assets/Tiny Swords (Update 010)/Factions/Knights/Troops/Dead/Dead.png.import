@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dupkiif5kkcsy"
-path="res://.godot/imported/Dead.png-d09f93e215277b5d0909961b911d3daf.ctex"
+path="res://.godot/imported/Dead.png-e51f8b45de5dd4c2cacec7424e115042.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Update 010)/Factions/Knights/Troops/Dead/Dead.png"
-dest_files=["res://.godot/imported/Dead.png-d09f93e215277b5d0909961b911d3daf.ctex"]
+source_file="res://Assets/Tiny Swords (Update 010)/Factions/Knights/Troops/Dead/Dead.png"
+dest_files=["res://.godot/imported/Dead.png-e51f8b45de5dd4c2cacec7424e115042.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ch52hcbwiklor"
-path="res://.godot/imported/Castle_Construction.png-b9b87579cf0f1957213691fe3870611e.ctex"
+path="res://.godot/imported/Castle_Construction.png-3b94f5be137521a4ea4f15bebcfea952.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle/Castle_Construction.png"
-dest_files=["res://.godot/imported/Castle_Construction.png-b9b87579cf0f1957213691fe3870611e.ctex"]
+source_file="res://Assets/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle/Castle_Construction.png"
+dest_files=["res://.godot/imported/Castle_Construction.png-3b94f5be137521a4ea4f15bebcfea952.ctex"]
 
 [params]
 

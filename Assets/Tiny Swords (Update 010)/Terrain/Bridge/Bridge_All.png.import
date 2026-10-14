@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3upy6vc3o446"
-path="res://.godot/imported/Bridge_All.png-9d275eb7273ee7062b659ea535f3e6ff.ctex"
+path="res://.godot/imported/Bridge_All.png-63cb02656dd59686691972190661399b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Update 010)/Terrain/Bridge/Bridge_All.png"
-dest_files=["res://.godot/imported/Bridge_All.png-9d275eb7273ee7062b659ea535f3e6ff.ctex"]
+source_file="res://Assets/Tiny Swords (Update 010)/Terrain/Bridge/Bridge_All.png"
+dest_files=["res://.godot/imported/Bridge_All.png-63cb02656dd59686691972190661399b.ctex"]
 
 [params]
 

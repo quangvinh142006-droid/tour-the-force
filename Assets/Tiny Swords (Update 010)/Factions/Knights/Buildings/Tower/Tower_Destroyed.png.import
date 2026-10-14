@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d4ine16tcg0m6"
-path="res://.godot/imported/Tower_Destroyed.png-0e8b8ce7b7240fe1eb253d58d4e6241f.ctex"
+path="res://.godot/imported/Tower_Destroyed.png-4a27ea7ac5d8edbdcd68fd79c33aafa1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://main/Assets/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/Tower_Destroyed.png"
-dest_files=["res://.godot/imported/Tower_Destroyed.png-0e8b8ce7b7240fe1eb253d58d4e6241f.ctex"]
+source_file="res://Assets/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/Tower_Destroyed.png"
+dest_files=["res://.godot/imported/Tower_Destroyed.png-4a27ea7ac5d8edbdcd68fd79c33aafa1.ctex"]
 
 [params]
 
