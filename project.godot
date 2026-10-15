@@ -13,6 +13,10 @@ config_version=5
 run/main_scene="uid://d4kd826no0dv3"
 config/features=PackedStringArray("4.7", "Mobile")
 
+[autoload]
+
+BattleManager="*uid://cosn2mymymos7"
+
 [display]
 
 window/stretch/mode="canvas_items"
