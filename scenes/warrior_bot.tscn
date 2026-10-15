@@ -18,23 +18,6 @@ tracks/0/keys = {
 "values": [0]
 }
 
-[sub_resource type="Animation" id="Animation_8b8k0"]
-resource_name = "attack"
-length = 0.6
-step = 0.1
-tracks/0/type = "value"
-tracks/0/imported = false
-tracks/0/enabled = true
-tracks/0/path = NodePath("Sprite2D:frame")
-tracks/0/interp = 1
-tracks/0/loop_wrap = true
-tracks/0/keys = {
-"times": PackedFloat32Array(0, 0.099999994, 0.19999999, 0.3, 0.39999998, 0.49999997),
-"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1),
-"update": 1,
-"values": [12, 13, 14, 15, 16, 17]
-}
-
 [sub_resource type="Animation" id="Animation_vft1d"]
 resource_name = "idle"
 length = 0.6
@@ -53,29 +36,10 @@ tracks/0/keys = {
 "values": [0, 1, 2, 3, 4, 5]
 }
 
-[sub_resource type="Animation" id="Animation_y8onb"]
-resource_name = "walk"
-length = 0.6
-step = 0.1
-tracks/0/type = "value"
-tracks/0/imported = false
-tracks/0/enabled = true
-tracks/0/path = NodePath("Sprite2D:frame")
-tracks/0/interp = 1
-tracks/0/loop_wrap = true
-tracks/0/keys = {
-"times": PackedFloat32Array(0, 0.1, 0.19999999, 0.3, 0.39999998, 0.49999997),
-"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1),
-"update": 1,
-"values": [6, 7, 8, 9, 10, 11]
-}
-
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_y8onb"]
 _data = {
 &"RESET": SubResource("Animation_65h8q"),
-&"attack": SubResource("Animation_8b8k0"),
-&"idle": SubResource("Animation_vft1d"),
-&"walk": SubResource("Animation_y8onb")
+&"idle": SubResource("Animation_vft1d")
 }
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_8whsc"]
@@ -87,7 +51,6 @@ radius = 64.0
 height = 140.0
 
 [node name="WarriorBot" type="CharacterBody2D" unique_id=196236013]
-position = Vector2(194, 185)
 script = ExtResource("1_65h8q")
 
 [node name="AnimateAgent" type="Node2D" parent="." unique_id=1613682256]

@@ -1,5 +1,7 @@
 [gd_scene format=3 uid="uid://jctk2unb1iob"]
 
+[ext_resource type="Script" uid="uid://bn7enna5s3j7y" path="res://scripts/btnplay.gd" id="1_6e84v"]
+
 [node name="Node2D" type="Node2D" unique_id=1648008762]
 
 [node name="Button" type="Button" parent="." unique_id=505241716]
@@ -8,3 +10,4 @@ offset_top = 63.0
 offset_right = 684.0
 offset_bottom = 176.0
 text = "play"
+script = ExtResource("1_6e84v")

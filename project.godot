@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-run/main_scene="uid://d4kd826no0dv3"
+run/main_scene="uid://jctk2unb1iob"
 config/features=PackedStringArray("4.7", "Mobile")
 
 [autoload]
